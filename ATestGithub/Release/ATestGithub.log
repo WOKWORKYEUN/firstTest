@@ -1,0 +1,46 @@
+﻿生成启动时间为 2022/4/6 15:56:26。
+     1>项目“C:\Users\Administrator\Documents\HUGY_PROGRAM\ATestGithub\ATestGithub\ATestGithub.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“C:\Users\Administrator\Documents\HUGY_PROGRAM\ATestGithub\Release\”。
+       InitializeBuildStatus:
+         正在创建“Release\ATestGithub.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\ATestGithub.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\ATestGithub.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ATestGithub.cpp ATestGithubDoc.cpp ATestGithubView.cpp ClassView.cpp FileView.cpp MainFrm.cpp OutputWnd.cpp PropertiesWnd.cpp ViewTree.cpp
+         ATestGithub.cpp
+         ATestGithubDoc.cpp
+         ATestGithubView.cpp
+         ClassView.cpp
+         FileView.cpp
+         MainFrm.cpp
+         OutputWnd.cpp
+         PropertiesWnd.cpp
+         ViewTree.cpp
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\ATestGithub.res" ATestGithub.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Documents\HUGY_PROGRAM\ATestGithub\Release\ATestGithub.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\ATestGithub.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\Documents\HUGY_PROGRAM\ATestGithub\Release\ATestGithub.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Documents\HUGY_PROGRAM\ATestGithub\Release\ATestGithub.lib" /MACHINE:X86 Release\ATestGithub.res
+         Release\ATestGithub.obj
+         Release\ATestGithubDoc.obj
+         Release\ATestGithubView.obj
+         Release\ClassView.obj
+         Release\FileView.obj
+         Release\MainFrm.obj
+         Release\OutputWnd.obj
+         Release\PropertiesWnd.obj
+         Release\stdafx.obj
+         Release\ViewTree.obj
+         正在生成代码
+         已完成代码的生成
+         ATestGithub.vcxproj -> C:\Users\Administrator\Documents\HUGY_PROGRAM\ATestGithub\Release\ATestGithub.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Administrator\Documents\HUGY_PROGRAM\ATestGithub\Release\ATestGithub.exe;#1" /manifest Release\ATestGithub.exe.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\ATestGithub.unsuccessfulbuild”。
+         正在对“Release\ATestGithub.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\Documents\HUGY_PROGRAM\ATestGithub\ATestGithub\ATestGithub.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.73
